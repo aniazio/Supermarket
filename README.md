@@ -1,6 +1,7 @@
 # Supermarket
 
-Opis zadania:
+**Opis zadania:**
+
 W pewnym supermarkecie jest łącznie M kas (M>3). Zasady ich działania przyjęte przez kierownika sklepu są następujące:
 - Zawsze działają min. 2 stanowiska kasowe.
 - Na każdych K klientów znajdujących się na terenie supermarketu powinno przypadać min. 1 czynne stanowisko kasowe.
