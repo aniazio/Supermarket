@@ -8,9 +8,9 @@ In a certain supermarket, there are M checkouts (M>3). The rules of their operat
 - There is always at least 2 open chceckouts.
 - For every K customers in the store, there should be at least 1 open checkout.
 - If the number of customers is less than K*(N-1), where N is the number of open checkouts, one of the checkouts shoud be closed.
-If there were customers waiting in the checkout queue (before the decision to close was announced) then they should be served by that checkout. Customers come to the supermarket at random points in time and stay there for a certain random time for each of them. Write a program of clients and store manager.
+If there were clients waiting in the checkout queue (before the decision to close was announced) then they should be served by that checkout. Clients come to the supermarket at random points in time and stay there for a certain random time for each of them. Write a program for clients and store manager.
 
-The current status in the store is shown in the application. In addition, it is printed on the console so the changes, which have occurred throughout the day, can be tracked. Multithreading plays a significant role in this project.
+The current status in the store is shown in the application. In addition, it is printed to the console so the changes, which have occurred throughout the day, can be tracked afterwards. Multithreading plays a significant role in this project.
 
 PL
 
