@@ -1,6 +1,6 @@
 # Supermarket
 
-ENG
+**ENG**
 
 **Description of the task:**
 
@@ -12,7 +12,7 @@ If there were clients waiting in the checkout queue (before the decision to clos
 
 The current status in the store is shown in the application. In addition, it is printed to the console so the changes, which have occurred throughout the day, can be tracked afterwards. Multithreading plays a significant role in this project.
 
-PL
+**PL**
 
 **Opis zadania:**
 
